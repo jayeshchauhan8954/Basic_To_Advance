@@ -44,11 +44,4 @@
     // object
     var Employee = {};
     console.log(typeof (Employee));
-
-    // comparision operator => on or after => 1.12 time
-
-
-
-
-
 })(); // iife

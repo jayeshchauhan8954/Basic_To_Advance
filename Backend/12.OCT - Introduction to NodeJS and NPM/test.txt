@@ -1,0 +1,7 @@
+## this is the test page
+==> Phases of NodeJs
+1. Poll -> All input / output operation and all sync operation comes under poll Phase and normal Callback
+2. Check -> setImmediate()
+3. Timer -> setTimeout() , setInterval()
+4. Pending Callback -> It occurs server closed by an err then it first log Pending err and then launch closed Callback
+5. Closed Callback -> It only occurs when we itensionally closed server , i.e,only closed Callback

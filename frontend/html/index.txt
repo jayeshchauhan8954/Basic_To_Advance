@@ -1,0 +1,12 @@
+student registration form
+name
+father's name
+mother's name
+gender
+email
+contact no.
+hobbies
+disabilities (if any)
+last class or qualification
+course in which to enrolled
+which language(s) you want to learn

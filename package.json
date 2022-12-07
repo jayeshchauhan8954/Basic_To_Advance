@@ -1,0 +1,22 @@
+{
+  "name": "mario",
+  "version": "1.0.0", 
+  "description": "this is mario game",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeshchauhan8954/Basic_To_Advance.git"
+  },
+  "keywords": [
+    "mario.js"
+  ],
+  "author": "Jayesh_Chauhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayeshchauhan8954/Basic_To_Advance/issues"
+  },
+  "homepage": "https://github.com/jayeshchauhan8954/Basic_To_Advance#readme"
+}
